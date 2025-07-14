@@ -7,3 +7,4 @@ I am learning and want to show my works to other people through this platform.
 - Day 5 (02-07-2025) - I have learned about decimal to binary conversion and binary to decimal conversion.
 - Day 6 (03-07-2025) - I have learned about switch case. And solved few questions.
 - Day 7 (04-07-2025) - I have learned about fucntions and solved few leetcode problems.
+- Day 8 (18-07-2025) - I learned about Array and solve 5-7 questions related to array.
